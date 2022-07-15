@@ -1,0 +1,6 @@
+name: main2
+title: Página Principal Source 2
+version: current
+start_page: ROOT:main.adoc
+nav:
+- modules/ROOT/nav.adoc
